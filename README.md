@@ -139,3 +139,11 @@ python main.py
 MIT License © 2025 **Abdullah Abukalaf**
 
 GitHub: [@AbdullahAbukalaf](https://github.com/AbdullahAbukalaf)
+
+---
+
+
+<p align="center">
+  <b>Developed with ❤️ by <a href="https://github.com/AbdullahAbukalaf">Abdullah Abukalaf</a></b><br>
+  <sub>Built for learning and real-world FastAPI practice.</sub>
+</p>
